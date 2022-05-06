@@ -1,6 +1,14 @@
 body {
-  background-image: linear-gradient(to right, white, #adad85);
   font-family: Perpetua, Garamond;
+}
+
+#container {
+  background-image: linear-gradient(to top, white, #adad85);
+  width: 67%;
+  padding-top: 25px;
+  padding-left: 10px;
+  border-color: #adad85;
+  border-style: hidden solid hidden solid;
 }
 
 h1 {
