@@ -4,7 +4,7 @@ body {
 
 #container {
   background-image: linear-gradient(to top, white, #adad85);
-  width: 67%;
+  width: 80%;
   padding-top: 25px;
   padding-left: 10px;
   border-color: #adad85;
@@ -23,7 +23,7 @@ img {
 }
 
 h3 {
-  width: 35%;
+  width: 40%;
   
   padding-left: 20px;
   border-top: thin solid gray;
@@ -36,9 +36,13 @@ h3 {
   font-variant: small-caps;
 }
 
+li {
+  font-size: 1.15em;
+}
+
 p {
   margin-left: 5px;
-  font-size: 1em;
+  font-size: 1.15em;
 }
 
 h5 {
